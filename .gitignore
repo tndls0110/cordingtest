@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.gitignore
+/cording_test.iml
+/.idea/misc.xml
+/.idea/modules.xml
