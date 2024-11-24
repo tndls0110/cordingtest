@@ -1,4 +1,4 @@
-package programmers.level0;
+package programmers.level0.date241124;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package programmers.level0;
+package programmers.level0.date241123;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/120893
 public class Date241123No120893 {
