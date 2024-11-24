@@ -1,5 +1,6 @@
 package programmers.level0;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/120893
 public class Date241123No120893 {
     public String solution(String my_string) {
         String answer = "";

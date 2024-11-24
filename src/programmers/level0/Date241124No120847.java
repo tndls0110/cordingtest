@@ -2,7 +2,8 @@ package programmers.level0;
 
 import java.util.Arrays;
 
-// 32-51ms
+// https://school.programmers.co.kr/learn/courses/30/lessons/120847
+// 0.32-0.51ms
 public class Date241124No120847 {
     public int solution(int[] numbers) {
         int answer = 0;
