@@ -7,7 +7,7 @@ import java.util.List;
 // 0.02-0.04ms
 public class Date241124No120905 {
     public List<Integer> solution(int n, int[] numlist) {
-        List<Integer> answer = new ArrayList<Integer>();
+        List<Integer> answer = new ArrayList<>();
         for (int num : numlist) {
             if (num % n == 0) {
                 answer.add(num);
